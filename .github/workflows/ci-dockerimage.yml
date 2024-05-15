@@ -20,4 +20,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: gabvillacis93/estudiantes_api:latest
+          tags: athenian/estudiantes_api:latest
